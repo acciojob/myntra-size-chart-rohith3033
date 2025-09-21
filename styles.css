@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+#t1 {
+	text-align:left;
+}
+td {
+	text-align:right;
+}
